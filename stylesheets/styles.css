@@ -144,6 +144,7 @@ hr {
 
 img {
   position: relative;
+  float: right;
   margin: 0 auto;
   max-width: 650px;
   padding: 5px;
@@ -320,7 +321,7 @@ a.buttons:hover {
 
 section {
   width:650px;
-  float:right;
+  float:none;
   padding-bottom:50px;
 }
 
